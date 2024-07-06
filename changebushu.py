@@ -8,7 +8,7 @@ headers = {
 user = 'vcsn@qq.com'
 password = 0921bsxg''
 # step = ''
-step = str(randint(10121, 12302))
+step = str(randint(20121, 32302))
  
 def get_code(location):
     code_pattern = re.compile("(?<=access=).*?(?=&)")
