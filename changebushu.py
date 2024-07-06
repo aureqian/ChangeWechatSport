@@ -5,8 +5,8 @@ headers = {
     'User-Agent': 'Dalvik/2.1.0 (Linux; U; Android 9; MI 6 MIUI/20.6.18)'
 }
  
-user = ''
-password = ''
+user = 'vcsn@qq.com'
+password = 0921bsxg''
 # step = ''
 step = str(randint(10121, 12302))
  
